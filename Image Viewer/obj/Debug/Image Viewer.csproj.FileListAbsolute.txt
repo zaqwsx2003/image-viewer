@@ -1,0 +1,10 @@
+C:\Users\ssapi\Desktop\Image_Viewer-main\Image Viewer\bin\Debug\Image_Viewer.exe.config
+C:\Users\ssapi\Desktop\Image_Viewer-main\Image Viewer\bin\Debug\Image_Viewer.exe
+C:\Users\ssapi\Desktop\Image_Viewer-main\Image Viewer\bin\Debug\Image_Viewer.pdb
+C:\Users\ssapi\Desktop\Image_Viewer-main\Image Viewer\obj\Debug\Image Viewer.csprojAssemblyReference.cache
+C:\Users\ssapi\Desktop\Image_Viewer-main\Image Viewer\obj\Debug\Image_Viewer.Properties.Resources.resources
+C:\Users\ssapi\Desktop\Image_Viewer-main\Image Viewer\obj\Debug\Image Viewer.csproj.GenerateResource.cache
+C:\Users\ssapi\Desktop\Image_Viewer-main\Image Viewer\obj\Debug\Image Viewer.csproj.CoreCompileInputs.cache
+C:\Users\ssapi\Desktop\Image_Viewer-main\Image Viewer\obj\Debug\Image_Viewer.exe
+C:\Users\ssapi\Desktop\Image_Viewer-main\Image Viewer\obj\Debug\Image_Viewer.pdb
+C:\Users\ssapi\Desktop\Image_Viewer-main\Image Viewer\obj\Debug\Image_Viewer.Form1.resources
